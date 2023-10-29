@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+/* Header styles */
+.heading {
+  height: 250px;
+  background-image: url("../images/best-ethiopian-coffee.webp");
+  background-position: center;
+  background-size: cover;
+}
+.topnavbar{
+  float: right;
+  position: relative;
+  /* left: 460px;
+  top: 180px; */
+}
+
+.topnavbar, a {
+  color: orange;
+  font-size: 1.2rem;
+}
+
+/* Main body styles */
+
+/* footer styles */
